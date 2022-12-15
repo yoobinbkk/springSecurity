@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="gs-securing-web-complete"/>
+<aop-project name="securityDemo"/>
+<aop-project name="gs-securing-web-initial"/>
+</aop-reference-model>
